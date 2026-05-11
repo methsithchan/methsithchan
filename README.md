@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Methsith</h1>
-<h3 align="center">Developer · Designer · Ampara, Sri Lanka 🇱🇰</h3>
+<h2 align="left">Hey 👋, I'm Methsith</h2>
+<h3 align="left">Developer · Designer · Ampara, Sri Lanka 🇱🇰</h3>
 
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/methsith7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -45,20 +45,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=methsithchan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methsithchan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=methsithchan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=methsithchan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=methsithchan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=methsithchan&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/methsithchan">methsithchan</a></p>
+<p align="left">⭐️ From <a href="https://github.com/methsithchan">methsithchan</a></p>
