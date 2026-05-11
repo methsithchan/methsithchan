@@ -43,20 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=methsithchan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=methsithchan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methsithchan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=methsithchan&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
