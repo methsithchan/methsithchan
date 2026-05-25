@@ -1,6 +1,10 @@
-# Hey 👋, I'm Methsith
+<div>
+  <span style="font-size: 1.35em; font-weight: 600;">Hey 👋, I'm Methsith</span>
+  <br />
+  <span style="font-size: 0.95em; color: #8b949e;">Developer &middot; Designer &middot; Ampara, Sri Lanka 🇱🇰</span>
+</div>
 
-`Developer` · `Designer` · **Ampara, Sri Lanka 🇱🇰**
+<br />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/methsith7/" target="_blank">
