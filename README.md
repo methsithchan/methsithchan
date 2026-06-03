@@ -56,8 +56,4 @@
   <img src="https://komarev.com/ghpvc/?username=methsithchan&color=24292e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/sponsors/methsithchan" target="_blank">
-    <img src="https://img.shields.io/github/sponsors/methsithchan?label=Sponsor&color=121212&style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="GitHub Sponsors" />
-  </a>
-</p>
+
