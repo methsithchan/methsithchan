@@ -1,6 +1,6 @@
 <h3>Hey 👋, I'm Methsith</h3>
 
-`Developer` · `Designer` · **Sri Lanka 🇱🇰**
+`Developer` · `Designer` 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/methsith7/" target="_blank">
@@ -11,6 +11,9 @@
   </a>
   <a href="mailto:methsithchan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-121212?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sponsors/methsithchan" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-121212?style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="Sponsor on GitHub" />
   </a>
 </p>
 
@@ -53,10 +56,8 @@
   <img src="https://komarev.com/ghpvc/?username=methsithchan&color=24292e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<br />
-
 <p align="left">
-  <a href="https://github.com/sponsors/methsithchan">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+  <a href="https://github.com/sponsors/methsithchan" target="_blank">
+    <img src="https://img.shields.io/github/sponsors/methsithchan?label=Sponsor&color=121212&style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="GitHub Sponsors" />
   </a>
 </p>
