@@ -41,7 +41,6 @@
 </div>
 
 <br />
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=methsithchan&color=24292e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
