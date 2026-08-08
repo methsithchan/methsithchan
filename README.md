@@ -41,15 +41,6 @@
 </div>
 
 <br />
-
-**Live Production & Tools**
-<div>
-  <img src="https://img.shields.io/badge/WebSocket-121212?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/Arduino-121212?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/macOS-121212?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-</div>
-
 ---
 
 <p align="left">
